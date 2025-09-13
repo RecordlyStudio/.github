@@ -1,8 +1,7 @@
-# 🌟 Welcome to Alcordly 👋  
+# 🌟 Welcome to Recordly 👋  
 
-<p align="center">
-  <img src="https://dummyimage.com/400x120/000/fff&text=Alcordly" alt="Alcordly Logo" />
-</p>
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a27dd319-da46-4a14-b2b0-ada9a5c6852f" />
+
 
 ---
 
