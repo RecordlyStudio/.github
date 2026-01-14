@@ -22,16 +22,12 @@ Whether you’re documenting decisions, teaching concepts, or collaborating asyn
 
 * **Video Recording & Screen Capture**
   Record meetings, screens, tabs, and presentations with high quality.
-
 * **Meeting Intelligence**
   Transcriptions, summaries, and key points generated from recordings.
-
 * **Collaboration First**
   Share videos instantly, comment on timelines, tag teammates, and embed anywhere.
-
 * **Cross-Platform Access**
   Browser-based recording with desktop and extension support.
-
 * **Smart Video Search**
   Quickly find moments inside long recordings using AI-powered indexing.
 
@@ -56,7 +52,6 @@ Recordly is designed as a **scalable, modular, open-source system**, built with:
 ---
 
 ## 🧩 Open source & community
-
 Recordly is community-driven. We welcome contributors building around:
 
 * Video recording & capture SDKs
