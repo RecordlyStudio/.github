@@ -1,32 +1,66 @@
-**Recordly** is an **open-source video recording and collaboration platform** built for creators, teams, and businesses. We make it simple to **capture, share, and search video content**—whether it’s meetings, presentations, tutorials, or creative work.
 
-### 🚀 What we do
+# Recordly 👋
 
-* **Video Recording & Screen Capture** – High-quality recording of meetings, presentations, or workflows.
-* **Meeting Intelligence** – Transcribe, summarize, and organize discussions into actionable insights.
-* **Collaboration Tools** – Share recordings instantly, tag teammates, and embed videos into workflows.
-* **Cross-Platform Access** – Record and access content anywhere: browser, desktop, or extensions.
-* **Smart Search** – Find key moments in long recordings with AI-powered indexing.
+**Open-source video recording & collaboration platform**
 
-### 🌍 Our Mission
+Website | Docs | GitHub | Community
 
-We believe every conversation, idea, and meeting has value. Recordly transforms these moments into **searchable, shareable knowledge**—accessible anytime, anywhere.
+---
 
-### 🔧 Tech Vision
+## 🎥 Recordly: Capture, Collaborate, and Search Video Knowledge
 
-Recordly is developed as a **scalable, open, and modular open-source platform**, blending:
+**Recordly** is an **open-source video recording and collaboration platform** built for **creators, teams, and businesses**.
+It makes it easy to **record, share, and search video content**—from meetings and presentations to tutorials and creative workflows.
 
-* Modern **frontend frameworks** for fast, intuitive UX.
-* Robust **backend services** for secure, scalable video storage.
-* **AI/ML integrations** for transcription, summarization, and insights.
-* Developer-friendly APIs to extend Recordly into existing workflows.
+Whether you’re documenting decisions, teaching concepts, or collaborating asynchronously, Recordly turns video into **structured, reusable knowledge**.
 
-### 🧩 Open Source & Community
+<img width="1536" height="1024" alt="Recordly banner" src="https://github.com/user-attachments/assets/bdba20c7-551e-4913-9046-6a3bc55aec99" />
 
-Recordly is more than a product—it’s a **community-driven project**. Expect contributions, libraries, and integrations around:
+---
 
-* Video recording SDKs
-* Meeting note generators
-* Workflow automation tools
-* AI transcription helpers
+## 🚀 What’s included
+
+* **Video Recording & Screen Capture**
+  Record meetings, screens, tabs, and presentations with high quality.
+
+* **Meeting Intelligence**
+  Transcriptions, summaries, and key points generated from recordings.
+
+* **Collaboration First**
+  Share videos instantly, comment on timelines, tag teammates, and embed anywhere.
+
+* **Cross-Platform Access**
+  Browser-based recording with desktop and extension support.
+
+* **Smart Video Search**
+  Quickly find moments inside long recordings using AI-powered indexing.
+
+---
+
+## 🌍 Our mission
+
+We believe **every conversation matters**.
+Recordly transforms meetings and ideas into **searchable, shareable knowledge** that lives beyond the call.
+
+---
+
+## 🔧 Technical vision
+
+Recordly is designed as a **scalable, modular, open-source system**, built with:
+
+* Modern **frontend architecture** for fast, intuitive UX
+* Secure, scalable **backend services** for video storage and delivery
+* **AI/ML pipelines** for transcription, summarization, and insights
+* **Developer-friendly APIs** to integrate Recordly into existing tools and workflows
+
+---
+
+## 🧩 Open source & community
+
+Recordly is community-driven. We welcome contributors building around:
+
+* Video recording & capture SDKs
+* Meeting notes and summarization tools
+* Workflow automation integrations
+* AI transcription and search helpers
 
