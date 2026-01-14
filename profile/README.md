@@ -5,6 +5,7 @@
 Website | Docs | GitHub | Community
 
 ---
+<img width="1536" height="1024" alt="Recordly banner" src="https://github.com/user-attachments/assets/bdba20c7-551e-4913-9046-6a3bc55aec99" />
 
 ## 🎥 Recordly: Capture, Collaborate, and Search Video Knowledge
 
@@ -13,7 +14,6 @@ It makes it easy to **record, share, and search video content**—from meetings 
 
 Whether you’re documenting decisions, teaching concepts, or collaborating asynchronously, Recordly turns video into **structured, reusable knowledge**.
 
-<img width="1536" height="1024" alt="Recordly banner" src="https://github.com/user-attachments/assets/bdba20c7-551e-4913-9046-6a3bc55aec99" />
 
 ---
 
