@@ -1,6 +1,7 @@
 # Recordly 👋
 
-<img width="1146" height="646" alt="image" src="https://github.com/user-attachments/assets/30b79b32-a2ea-4af6-8913-36a0368b719f" />
+<img width="1100" height="561" alt="image" src="https://github.com/user-attachments/assets/82646cf6-a83b-4f53-be65-d76c90f114d9" />
+
 
 
 
